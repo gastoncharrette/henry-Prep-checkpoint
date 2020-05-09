@@ -1,0 +1,23 @@
+#div-negro{height: 200px;
+    width: 350px;
+    background-color: black;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-top: solid black, 1px ;
+    border-bottom: black solid, 30px;
+    border-left: solid black, 1px;
+    border-right: solid black, 20px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+#uno-contact{margin-left: auto;
+
+
+}
+
+
+
+#uno-about{margin-right: auto;}
